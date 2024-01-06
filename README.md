@@ -1,5 +1,5 @@
 # ShopFind
-This is my web project to find a shops for fashion styles.
+This is my web project to find shops for fashion styles.
 
 It's always a struggle to find shops for certain styles. 
 You always have to search through multiple reddit posts.
